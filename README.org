@@ -1,0 +1,5 @@
+* README
+  enhanced Cyrillic Uzbek keyboard layout for Emacs
+
+  With the help of this keyboard you can easily type characters from the
+  qwerty keyboard. For example, to type ~-~, hit ~/-~.
